@@ -1,0 +1,17 @@
+body{
+    background-color: yellow;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-top: 300px;
+    border-radius: 50px;
+    color: red;
+    border: none;
+}
+.input{
+    background-color:coral;
+    width: 200px;
+    height: 20px;
+    border: none;
+}
